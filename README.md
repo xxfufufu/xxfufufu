@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxfufufu
-- 👀 I’m interested in front end web for sure
-- 🌱 I’m currently learning react, redux, node.js
+- 👀 I’m interested in front end web. React js for sure
+- 🌱 I’m currently learning node.js and blockchain!
 - 📫 How to reach me, just contact at xxfufufu24@gmail.com
 
 <!---
